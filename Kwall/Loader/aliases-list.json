@@ -1,8 +1,0 @@
-{
-  "Kwall/Config": "Config",
-
-  "Kwall/Core/App": "App",
-  "Kwall/Core/Middleware": "Middleware",
-  
-  "Kwall/Router": "Router"
-}
